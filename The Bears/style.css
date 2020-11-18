@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Homemade+Apple&family=Permanent+Marker&display=swap');
+/*CSS Reset*/
+body, header, nav, main, footer, img, h1 
+{
+    margin: 0;
+    padding:  0;
+    border: 0;
+}
+body
+{
+    background-color:rgb(0,0,0);
+    color: rgb(255,250,250);
+    font-family: 'Amatic SC', cursive;
+}
+nav a
+{
+    color: rgb(255,250,250);
+    width: 18%;
+    display: inline-block;
+    text-align: center;
+    border: 2pt solid rgb(255,250,250);
+    height: 4em;
+    padding-top: 2.5em;
+    padding-bottom: 0em;
+    font-family: 'Homemade Apple', cursive;
+}
+a
+{
+    color: rgb(255,250,250)
+}
+h1
+{
+    font-family: 'Homemade Apple', cursive;
+}
+h3
+{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.Poster
+{
+    display:inline;
+    float: left;
+    
+}
+.philJohnson
+{
+    float: left;
+    display: inline;
+}
+.jonSmith
+{
+    float: left;
+    display: inline;
+}
+.carlShultz
+{
+    display: inline;
+    float: left;
+}
+.gregSanders
+{
+    display: inline;
+    float: left;
+}
+.mReed
+{
+    display: inline;
+    float: left;
+}
+.hHughes
+{
+    display: inline;
+    float: left;
+}
+.bErnies
+{
+    display: inline;
+    float: left;
+}
+.Jim 
+{
+    display: inline;
+    float: left;
+}
+img
+{
+    max-width: 100%;
+}
+
+p
+{
+    font-size: x-large;
+}
+li
+{
+    font-size: x-large;
+}
+footer
+{
+    bottom: 0;
+    text-align: center;
+    clear: left
+}
+
